@@ -1,0 +1,15 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+   color: inherit;
+}
+select,.select {
+  width: 100%;
+}
+iframe{
+  position: relative;
+   top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+   
+}
